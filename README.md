@@ -20,8 +20,6 @@
   - Feature importance plots
   - Scatter plots of principal components
 
----
-
 ## 🤖 3. Model Training & Evaluation
 
 We trained and evaluated five classification models using a consistent train-test split strategy:
