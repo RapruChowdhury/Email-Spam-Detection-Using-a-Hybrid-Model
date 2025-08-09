@@ -31,13 +31,9 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 
 ✅ Models Used
-Logistic Regression
-
-Random Forest
-
-XGBoost
-
-<img width="1090" height="444" alt="image" src="https://github.com/user-attachments/assets/32a9979a-5552-4710-957f-ee7e09f9f4e8" />
+-Logistic Regression
+-Random Forest
+-XGBoost
 
 🔀 4. Ensemble Learning
 -Combined top-performing models using VotingClassifier
