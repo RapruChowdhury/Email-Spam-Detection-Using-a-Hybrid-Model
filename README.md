@@ -1,8 +1,5 @@
 # Email-Spam-Detection-Using-a-Hybrid-Model
 
-
----
-
 ## 📊 1. Data Preprocessing
 
 - Loaded dataset using `pandas`
@@ -13,7 +10,6 @@
   - Correlation heatmaps
   - Class imbalance charts
 
----
 
 ## 🧬 2. Feature Engineering
 
